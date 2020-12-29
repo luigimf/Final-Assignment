@@ -1,0 +1,26 @@
+body {
+    background: #ffffff;
+    font-family: 'Helvetica', sans-serif;
+    font-style: normal;
+	font-weight: 300;
+    overflow-x: hidden;
+}
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 60pt;
+    font-weight: 600;
+    letter-spacing: -1px;
+  }
+
+  h2 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 30pt;
+    font-weight: 600;
+    letter-spacing: -1px;
+  }
+
+  h3,h4,h5,h6 {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+  }
